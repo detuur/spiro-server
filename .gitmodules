@@ -1,0 +1,3 @@
+[submodule "Spirometer-website"]
+	path = static/Spirometer-website
+	url = https://github.com/remberluyckx/Spirometer-website
