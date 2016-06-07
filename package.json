@@ -1,0 +1,26 @@
+{
+  "name": "spiro-server",
+  "version": "1.0.0",
+  "description": "Spirometry Cloud Portion",
+  "main": "test.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "couchbase": "^2.1.6",
+    "express": "^4.13.4",
+    "request": "^2.72.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/detuur/spiro-server.git"
+  },
+  "author": "",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/detuur/spiro-server/issues"
+  },
+  "homepage": "https://github.com/detuur/spiro-server#readme"
+}
