@@ -5,7 +5,7 @@ var couchbase = require("couchbase");
 var n1q = require('couchbase').N1qlQuery;
 
 var Cluster = new couchbase.Cluster("couchbase://localhost");
-var bucket = Cluster.openBucket('test');
+var bucket = Cluster.openBucket('default');
 
 
 
